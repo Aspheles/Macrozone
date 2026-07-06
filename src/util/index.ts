@@ -1,0 +1,1 @@
+export { cleanupMacroText } from './StringUtil';
